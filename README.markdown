@@ -1,7 +1,3 @@
-Gradle 2.14.1, :init
-The build file 'build.gradle' already exists. Skipping build initialization.
-:init SKIPPED
+# Gradle 3.5
 
-BUILD SUCCESSFUL
-
-Total time: 0.943 secs
+`gradle init --type java-application`
